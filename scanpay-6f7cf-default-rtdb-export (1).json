@@ -1,0 +1,2838 @@
+{
+  "bundles": {
+    "bundle1": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Get organic basmati rice and green tea bags for a special price!",
+      "discountAmount": 50,
+      "id": "bundle1",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "3",
+          "quantity": 1
+        },
+        {
+          "productId": "6",
+          "quantity": 1
+        }
+      ],
+      "name": "Snack Time Combo",
+      "priority": 1,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle10": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Professional kitchen essentials for home chefs!",
+      "discountPercentage": 8,
+      "id": "bundle10",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "19",
+          "quantity": 1
+        },
+        {
+          "productId": "15",
+          "quantity": 1
+        }
+      ],
+      "name": "Kitchen Master",
+      "priority": 10,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle11": {
+      "bundlePrice": 4500,
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Everything you need for productive remote work!",
+      "id": "bundle11",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "5",
+          "quantity": 1
+        },
+        {
+          "productId": "10",
+          "quantity": 1
+        },
+        {
+          "productId": "14",
+          "quantity": 1
+        }
+      ],
+      "name": "Work From Home Pro",
+      "priority": 11,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle12": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Perfect entertainment bundle for family time!",
+      "discountAmount": 300,
+      "id": "bundle12",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "18",
+          "quantity": 1
+        },
+        {
+          "productId": "4",
+          "quantity": 2
+        }
+      ],
+      "name": "Family Fun Pack",
+      "priority": 12,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle2": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Premium coffee beans with honey at an amazing price!",
+      "discountPercentage": 15,
+      "id": "bundle2",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "9",
+          "quantity": 1
+        },
+        {
+          "productId": "21",
+          "quantity": 1
+        }
+      ],
+      "name": "Coffee Lover's Deal",
+      "priority": 2,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle3": {
+      "bundlePrice": 1200,
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Everything you need for a perfect morning!",
+      "id": "bundle3",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "9",
+          "quantity": 1
+        },
+        {
+          "productId": "21",
+          "quantity": 1
+        },
+        {
+          "productId": "22",
+          "quantity": 1
+        }
+      ],
+      "name": "Complete Breakfast Bundle",
+      "priority": 3,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle4": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Complete cooking oil collection for your kitchen!",
+      "discountPercentage": 20,
+      "id": "bundle4",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "23",
+          "quantity": 1
+        },
+        {
+          "productId": "24",
+          "quantity": 1
+        },
+        {
+          "productId": "25",
+          "quantity": 1
+        }
+      ],
+      "name": "Cooking Essentials",
+      "priority": 4,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle5": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Perfect flour combo for all your baking needs!",
+      "discountAmount": 75,
+      "id": "bundle5",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "26",
+          "quantity": 1
+        },
+        {
+          "productId": "27",
+          "quantity": 1
+        }
+      ],
+      "name": "Baker's Delight",
+      "priority": 5,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle6": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Essential electronics bundle for your daily needs!",
+      "discountPercentage": 10,
+      "id": "bundle6",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "2",
+          "quantity": 1
+        },
+        {
+          "productId": "20",
+          "quantity": 1
+        }
+      ],
+      "name": "Tech Starter Pack",
+      "priority": 6,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle7": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Perfect gaming accessories combo!",
+      "discountAmount": 500,
+      "id": "bundle7",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "16",
+          "quantity": 1
+        },
+        {
+          "productId": "12",
+          "quantity": 1
+        }
+      ],
+      "name": "Gaming Setup",
+      "priority": 7,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle8": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Complete fitness package for your workout routine!",
+      "discountPercentage": 12,
+      "id": "bundle8",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "8",
+          "quantity": 1
+        },
+        {
+          "productId": "11",
+          "quantity": 1
+        },
+        {
+          "productId": "15",
+          "quantity": 1
+        }
+      ],
+      "name": "Fitness Warrior",
+      "priority": 8,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    },
+    "bundle9": {
+      "createdAt": "2024-05-01T00:00:00.000Z",
+      "description": "Natural beauty care combo for glowing skin!",
+      "discountAmount": 200,
+      "id": "bundle9",
+      "isActive": true,
+      "items": [
+        {
+          "productId": "13",
+          "quantity": 1
+        },
+        {
+          "productId": "17",
+          "quantity": 1
+        }
+      ],
+      "name": "Beauty Essentials",
+      "priority": 9,
+      "updatedAt": "2024-05-01T00:00:00.000Z"
+    }
+  },
+  "carts": {
+    "1": {
+      "bundleDiscountAmount": 0,
+      "discountFromPoints": 0,
+      "pointsRedeemed": 0,
+      "spinnerDiscountAmount": 0
+    },
+    "2": {
+      "bundleDiscountAmount": 0,
+      "discountFromPoints": 0,
+      "pointsRedeemed": 0,
+      "spinnerDiscountAmount": 0
+    },
+    "1751715231790": {
+      "appliedSpinnerReward": {
+        "code": "15PERCENTOFF",
+        "description": "15% Off Your Entire Cart",
+        "type": "PERCENTAGE_DISCOUNT",
+        "value": 15
+      },
+      "bundleDiscountAmount": 0,
+      "discountFromPoints": 0,
+      "items": [
+        {
+          "itemPrice": 899,
+          "product": {
+            "brand": "Coffee Roasters",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium arabica coffee beans, 500g pack.",
+            "id": "1",
+            "imageURL": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300",
+            "name": "Coffee Beans",
+            "numReviews": 334,
+            "price": 899,
+            "qrCodeId": "SP-FOOD-003",
+            "ratings": 4.8,
+            "stock": 25,
+            "weight": "500g"
+          },
+          "quantity": 2
+        },
+        {
+          "itemPrice": 349,
+          "product": {
+            "brand": "Nature's Best",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Natural, unprocessed honey from local beekeepers. 500g bottle.",
+            "id": "21",
+            "imageURL": "https://images.unsplash.com/photo-1587049633312-d628ae50a8ae?w=300",
+            "name": "Honey (Pure)",
+            "numReviews": 423,
+            "price": 349,
+            "qrCodeId": "SP-FOOD-004",
+            "ratings": 4.6,
+            "stock": 35,
+            "weight": "500g"
+          },
+          "quantity": 1
+        }
+      ],
+      "pointsRedeemed": 0,
+      "spinnerDiscountAmount": 322.05
+    },
+    "qyk9kEK9qnNIroW4KgSaqfRPnjI3": {
+      "bundleDiscountAmount": 0,
+      "discountFromPoints": 0,
+      "pointsRedeemed": 0,
+      "spinnerDiscountAmount": 0
+    },
+    "staff-google": {
+      "bundleDiscountAmount": 0,
+      "discountFromPoints": 0,
+      "pointsRedeemed": 0,
+      "spinnerDiscountAmount": 0
+    }
+  },
+  "orders": {
+    "-OUG1rSnAJFqgG_n5-7b": {
+      "appliedSpinnerReward": {
+        "code": "200INR_OFF",
+        "description": "₹200 Off Your Entire Cart",
+        "type": "FIXED_DISCOUNT",
+        "value": 200
+      },
+      "discountFromPoints": 8,
+      "exitQRData": "EXIT-SP-1751558875673-1751558875673",
+      "finalAmount": 2738,
+      "items": [
+        {
+          "itemPrice": 899,
+          "product": {
+            "brand": "Coffee Roasters",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium arabica coffee beans, 500g pack.",
+            "id": "1",
+            "imageURL": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300",
+            "name": "Coffee Beans",
+            "numReviews": 334,
+            "price": 899,
+            "qrCodeId": "SP-FOOD-003",
+            "ratings": 4.8,
+            "stock": 25,
+            "weight": "500g"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 299,
+          "product": {
+            "brand": "Organic Valley",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium quality organic basmati rice, 1kg pack.",
+            "id": "3",
+            "imageURL": "https://images.unsplash.com/photo-1586201375761-83865001e8c3?w=300",
+            "name": "Organic Basmati Rice",
+            "numReviews": 567,
+            "price": 299,
+            "qrCodeId": "SP-FOOD-001",
+            "ratings": 4.3,
+            "stock": 50,
+            "weight": "1kg"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 449,
+          "product": {
+            "brand": "Tea Garden",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium green tea bags, pack of 50.",
+            "id": "6",
+            "imageURL": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300",
+            "name": "Green Tea Bags",
+            "numReviews": 678,
+            "price": 449,
+            "qrCodeId": "SP-FOOD-002",
+            "ratings": 4.4,
+            "stock": 40,
+            "weight": "100g"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 1299,
+          "product": {
+            "brand": "YogaLife",
+            "category": "Fitness",
+            "currency": "INR",
+            "description": "Non-slip yoga mat with extra cushioning.",
+            "id": "8",
+            "imageURL": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=300",
+            "name": "Yoga Mat",
+            "numReviews": 156,
+            "price": 1299,
+            "qrCodeId": "SP-FITNESS-001",
+            "ratings": 4.5,
+            "stock": 35,
+            "weight": "1.2kg"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751558875673",
+      "pointsEarned": 273,
+      "pointsRedeemed": 80,
+      "shippingInfo": {
+        "address": "Sensai",
+        "city": "Pune",
+        "email": "john@example.com",
+        "name": "Sensai",
+        "phone": "54845659",
+        "state": "Delhi",
+        "zipCode": "556644"
+      },
+      "spinnerDiscountAmount": 200,
+      "status": "verified",
+      "timestamp": "2025-07-03T16:07:55.673Z",
+      "totalAmount": 2946,
+      "userId": "john@example.com"
+    },
+    "-OUG69l7KL5eendqikFd": {
+      "discountFromPoints": 2,
+      "exitQRData": "EXIT-SP-1751560005449-1751560005449",
+      "finalAmount": 0.5,
+      "items": [
+        {
+          "itemPrice": 1.2,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 18,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Wheat Flour",
+            "numReviews": 0,
+            "price": 1.2,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.6,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 19,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Potato",
+            "numReviews": 0,
+            "price": 0.6,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.2,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 20,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Green Chilli",
+            "numReviews": 0,
+            "price": 0.2,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.5,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 21,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Coriander Leaves",
+            "numReviews": 0,
+            "price": 0.5,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751560005449",
+      "pointsEarned": 0,
+      "pointsRedeemed": 20,
+      "shippingInfo": {
+        "address": "Sensai",
+        "city": "Amravati",
+        "email": "john@example.com",
+        "name": "Sensai",
+        "phone": "8745632187",
+        "state": "Delhi",
+        "zipCode": "556644"
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-03T16:26:45.449Z",
+      "totalAmount": 2.5,
+      "userId": "john@example.com"
+    },
+    "-OUG6AQEq5J6S300czsj": {
+      "discountFromPoints": 2,
+      "exitQRData": "EXIT-SP-1751560010118-1751560010118",
+      "finalAmount": 0.5,
+      "items": [
+        {
+          "itemPrice": 1.2,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 18,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Wheat Flour",
+            "numReviews": 0,
+            "price": 1.2,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.6,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 19,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Potato",
+            "numReviews": 0,
+            "price": 0.6,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.2,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 20,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Green Chilli",
+            "numReviews": 0,
+            "price": 0.2,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 0.5,
+          "product": {
+            "brand": "Generic",
+            "category": "Ingredient",
+            "description": "No description available.",
+            "id": 21,
+            "imageURL": "https://via.placeholder.com/120x120?text=No+Image",
+            "name": "Coriander Leaves",
+            "numReviews": 0,
+            "price": 0.5,
+            "quantity": 1,
+            "ratings": 4,
+            "stock": 25,
+            "weight": "unit"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751560010118",
+      "pointsEarned": 0,
+      "pointsRedeemed": 20,
+      "shippingInfo": {
+        "address": "B 303 Navin Anand Society lane no.9",
+        "city": "pune",
+        "email": "bangarbhushan826@gmail.com",
+        "name": "Bhushan Bangar",
+        "phone": "07768092482",
+        "state": "Maharashtra",
+        "zipCode": "411048"
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-03T16:26:50.118Z",
+      "totalAmount": 2.5,
+      "userId": "bangarbhushan826@gmail.com"
+    },
+    "-OUG6Umik0olJFzjyvbN": {
+      "discountFromPoints": 20,
+      "exitQRData": "EXIT-SP-1751560091567-1751560091567",
+      "finalAmount": 279,
+      "items": [
+        {
+          "itemPrice": 299,
+          "product": {
+            "brand": "Organic Valley",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium quality organic basmati rice, 1kg pack.",
+            "id": "3",
+            "imageURL": "https://images.unsplash.com/photo-1586201375761-83865001e8c3?w=300",
+            "name": "Organic Basmati Rice",
+            "numReviews": 567,
+            "price": 299,
+            "qrCodeId": "SP-FOOD-001",
+            "ratings": 4.3,
+            "stock": 50,
+            "weight": "1kg"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751560091567",
+      "pointsEarned": 27,
+      "pointsRedeemed": 200,
+      "shippingInfo": {
+        "address": "Sensai",
+        "city": "Pune",
+        "email": "john@example.com",
+        "name": "Sensai",
+        "phone": "8745632187",
+        "state": "Delhi",
+        "zipCode": "556644"
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-03T16:28:11.567Z",
+      "totalAmount": 299,
+      "userId": "john@example.com"
+    },
+    "-OUGGjOrK-_0isqhzwOl": {
+      "appliedSpinnerReward": {
+        "code": "MYSTERY_BOX",
+        "description": "Mystery Surprise Box",
+        "type": "VOUCHER_CODE",
+        "value": 0,
+        "voucherCode": "MYSTERY2025"
+      },
+      "discountFromPoints": 333.3,
+      "exitQRData": "EXIT-SP-1751562778431-1751562778431",
+      "finalAmount": 2363.7,
+      "items": [
+        {
+          "itemPrice": 899,
+          "product": {
+            "brand": "Coffee Roasters",
+            "category": "Food",
+            "currency": "INR",
+            "description": "Premium arabica coffee beans, 500g pack.",
+            "id": "1",
+            "imageURL": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300",
+            "name": "Coffee Beans",
+            "numReviews": 334,
+            "price": 899,
+            "qrCodeId": "SP-FOOD-003",
+            "ratings": 4.8,
+            "stock": 25,
+            "weight": "500g"
+          },
+          "quantity": 3
+        }
+      ],
+      "orderId": "SP-1751562778431",
+      "pointsEarned": 236,
+      "pointsRedeemed": 3333,
+      "shippingInfo": {
+        "address": "fewdaf",
+        "city": "",
+        "email": "g3hw4o@fbherb.com",
+        "name": "fewqtrqwtrq",
+        "phone": "323",
+        "state": "",
+        "zipCode": ""
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-03T17:12:58.431Z",
+      "totalAmount": 2697,
+      "userId": "g3hw4o@fbherb.com"
+    },
+    "-OULQ-Q24VskBwTMLjdc": {
+      "appliedSpinnerReward": {
+        "code": "MYSTERY_BOX",
+        "description": "Mystery Surprise Box",
+        "type": "VOUCHER_CODE",
+        "value": 0,
+        "voucherCode": "MYSTERY2025"
+      },
+      "discountFromPoints": 10,
+      "exitQRData": "EXIT-SP-1751649093008-1751649093008",
+      "finalAmount": 8989,
+      "items": [
+        {
+          "itemPrice": 8999,
+          "product": {
+            "brand": "Sony",
+            "category": "Electronics",
+            "currency": "INR",
+            "description": "Premium noise-cancelling wireless headphones.",
+            "id": "2",
+            "imageURL": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300",
+            "name": "Wireless Bluetooth Headphones",
+            "numReviews": 890,
+            "price": 8999,
+            "qrCodeId": "SP-AUDIO-001",
+            "ratings": 4.7,
+            "stock": 25,
+            "weight": "250g"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751649093008",
+      "pointsEarned": 898,
+      "pointsRedeemed": 100,
+      "shippingInfo": {
+        "address": "Sensai",
+        "city": "Pune",
+        "email": "john@example.com",
+        "name": "Sensai",
+        "phone": "8745632187",
+        "state": "Delhi",
+        "zipCode": "879456"
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-04T17:11:33.008Z",
+      "totalAmount": 8999,
+      "userId": "john@example.com"
+    },
+    "-OUQjj_2i5slbB8aoCxL": {
+      "discountFromPoints": 90,
+      "exitQRData": "EXIT-SP-1751738414471-1751738414472",
+      "finalAmount": 110,
+      "items": [
+        {
+          "itemPrice": 55,
+          "product": {
+            "brand": "24 Mantra Organic",
+            "category": "Grains",
+            "currency": "INR",
+            "description": "Consolidated from: Ragi Dosa",
+            "id": "ragi-flour",
+            "imageURL": "https://media.istockphoto.com/id/985919390/photo/ragi-nachni-also-known-as-finger-millet-and-ragi-flour-which-is-a-healthy-food-and-is-gluten.jpg?s=2048x2048&w=is&k=20&c=6GFTVKVzI724T43QeKhfNLnY0en8oYwTgO_JAVrZCYk=",
+            "name": "Ragi Flour",
+            "numReviews": 0,
+            "price": 55,
+            "qrCodeId": "SP-RAGI-FLOUR",
+            "ratings": 4,
+            "stock": 100,
+            "weight": "1 unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 40,
+          "product": {
+            "brand": "Aashirvaad",
+            "category": "Grains",
+            "currency": "INR",
+            "description": "Consolidated from: Ragi Dosa",
+            "id": "rice-flour",
+            "imageURL": "https://media.istockphoto.com/id/1163428782/photo/rice-flour-and-rice-grain-on-wooden-surface-along-with-some-green-tea-in-a-transparent-glass.jpg?s=1024x1024&w=is&k=20&c=LrUKr1LIVfFB9pCCjj8BB4lFvgcqz-kH-FLxChLodFc=",
+            "name": "Rice Flour",
+            "numReviews": 0,
+            "price": 40,
+            "qrCodeId": "SP-RICE-FLOUR",
+            "ratings": 4,
+            "stock": 100,
+            "weight": "1 unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 35,
+          "product": {
+            "brand": "Amul",
+            "category": "Dairy",
+            "currency": "INR",
+            "description": "Consolidated from: Ragi Dosa",
+            "id": "curd-(low-fat)",
+            "imageURL": "https://media.istockphoto.com/id/1500599620/photo/fresh-curd-and-herbs-dairy-product.jpg?s=1024x1024&w=is&k=20&c=-YqBuLzrD-F0ypCf5HFKf5kHTkKe8bNDarezcgJJrOc=",
+            "name": "Curd (Low-Fat)",
+            "numReviews": 0,
+            "price": 35,
+            "qrCodeId": "SP-CURD-(LOW-FAT)",
+            "ratings": 4,
+            "stock": 100,
+            "weight": "1 unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 45,
+          "product": {
+            "brand": "Catch",
+            "category": "Spices",
+            "currency": "INR",
+            "description": "Consolidated from: Ragi Dosa",
+            "id": "cumin-seeds",
+            "imageURL": "https://media.istockphoto.com/id/144803768/photo/white-bowl-with-cumin-seeds.jpg?s=2048x2048&w=is&k=20&c=VqpPwqaYRFasOJzXxAXdlsiexRjKUv04wuoLYlnNFlo=",
+            "name": "Cumin Seeds",
+            "numReviews": 0,
+            "price": 45,
+            "qrCodeId": "SP-CUMIN-SEEDS",
+            "ratings": 4,
+            "stock": 100,
+            "weight": "1 unit"
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 25,
+          "product": {
+            "brand": "Local",
+            "category": "Vegetables",
+            "currency": "INR",
+            "description": "Consolidated from: Ragi Dosa",
+            "id": "green-chilli",
+            "imageURL": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "name": "Green Chilli",
+            "numReviews": 0,
+            "price": 25,
+            "qrCodeId": "SP-GREEN-CHILLI",
+            "ratings": 4,
+            "stock": 100,
+            "weight": "1 unit"
+          },
+          "quantity": 1
+        }
+      ],
+      "orderId": "SP-1751738414471",
+      "pointsEarned": 11,
+      "pointsRedeemed": 900,
+      "shippingInfo": {
+        "address": "Sensai",
+        "city": "Mumbai",
+        "email": "john@example.com",
+        "name": "Sensai",
+        "phone": "8745632187",
+        "state": "Delhi",
+        "zipCode": "556644"
+      },
+      "spinnerDiscountAmount": 0,
+      "status": "verified",
+      "timestamp": "2025-07-05T18:00:14.472Z",
+      "totalAmount": 200,
+      "userId": "john@example.com"
+    },
+    "order1001": {
+      "finalAmount": 1200,
+      "itemCount": 3,
+      "items": [
+        {
+          "itemPrice": 899,
+          "product": {
+            "id": "1",
+            "name": "Coffee Beans",
+            "price": 899
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 199,
+          "product": {
+            "id": "22",
+            "name": "Dark Chocolate",
+            "price": 199
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 449,
+          "product": {
+            "id": "6",
+            "name": "Green Tea Bags",
+            "price": 449
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": false,
+      "orderId": "SP-10001",
+      "shippingInfo": {
+        "name": "Alice Smith"
+      },
+      "status": "verified",
+      "suspicionScore": 0,
+      "timestamp": "2024-05-01T10:00:00.000Z",
+      "totalAmount": 1200,
+      "userId": "alice@example.com"
+    },
+    "order1002": {
+      "finalAmount": 15999,
+      "itemCount": 1,
+      "items": [
+        {
+          "itemPrice": 15999,
+          "product": {
+            "id": "2",
+            "name": "Wireless Bluetooth Headphones",
+            "price": 15999
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": true,
+      "orderId": "SP-10002",
+      "shippingInfo": {
+        "name": "Bob Johnson"
+      },
+      "status": "verified",
+      "suspicionScore": 9,
+      "timestamp": "2024-05-01T11:00:00.000Z",
+      "totalAmount": 15999,
+      "triggeredRules": [
+        "High value electronics"
+      ],
+      "userId": "bob@example.com"
+    },
+    "order1003": {
+      "finalAmount": 299,
+      "itemCount": 1,
+      "items": [
+        {
+          "itemPrice": 299,
+          "product": {
+            "id": "3",
+            "name": "Organic Basmati Rice",
+            "price": 299
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": false,
+      "orderId": "SP-10003",
+      "shippingInfo": {
+        "name": "Charlie Lee"
+      },
+      "status": "verified",
+      "suspicionScore": 0,
+      "timestamp": "2024-05-01T12:00:00.000Z",
+      "totalAmount": 299,
+      "userId": "charlie@example.com"
+    },
+    "order1004": {
+      "finalAmount": 18000,
+      "itemCount": 2,
+      "items": [
+        {
+          "itemPrice": 349,
+          "product": {
+            "id": "21",
+            "name": "Honey (Pure)",
+            "price": 349
+          },
+          "quantity": 1
+        },
+        {
+          "itemPrice": 17651,
+          "product": {
+            "id": "12",
+            "name": "Bluetooth Speaker",
+            "price": 17651
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": true,
+      "orderId": "SP-10004",
+      "shippingInfo": {
+        "name": "Diana Patel"
+      },
+      "status": "verified",
+      "suspicionScore": 8,
+      "timestamp": "2024-05-01T13:00:00.000Z",
+      "totalAmount": 18000,
+      "triggeredRules": [
+        "Multiple high value items"
+      ],
+      "userId": "diana@example.com"
+    },
+    "order1005": {
+      "finalAmount": 449,
+      "itemCount": 1,
+      "items": [
+        {
+          "itemPrice": 449,
+          "product": {
+            "id": "6",
+            "name": "Green Tea Bags",
+            "price": 449
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": false,
+      "orderId": "SP-10005",
+      "shippingInfo": {
+        "name": "Eve Kumar"
+      },
+      "status": "verified",
+      "suspicionScore": 0,
+      "timestamp": "2024-05-01T14:00:00.000Z",
+      "totalAmount": 449,
+      "userId": "eve@example.com"
+    },
+    "order1006": {
+      "finalAmount": 2499,
+      "itemCount": 1,
+      "items": [
+        {
+          "itemPrice": 2499,
+          "product": {
+            "id": "16",
+            "name": "Gaming Mouse",
+            "price": 2499
+          },
+          "quantity": 1
+        }
+      ],
+      "needsManualVerification": true,
+      "orderId": "SP-10006",
+      "shippingInfo": {
+        "name": "Frank Miller"
+      },
+      "status": "verified",
+      "suspicionScore": 7,
+      "timestamp": "2024-05-01T15:00:00.000Z",
+      "totalAmount": 2499,
+      "triggeredRules": [
+        "Unusual purchase time"
+      ],
+      "userId": "frank@example.com"
+    }
+  },
+  "products": [
+    null,
+    {
+      "brand": "Coffee Roasters",
+      "category": "Food",
+      "currency": "INR",
+      "description": "Premium arabica coffee beans, 500g pack.",
+      "imageURL": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300",
+      "name": "Coffee Beans",
+      "numReviews": 334,
+      "price": 899,
+      "qrCodeId": "SP-FOOD-003",
+      "ratings": 4.8,
+      "stock": 25,
+      "weight": "500g"
+    },
+    {
+      "brand": "Sony",
+      "category": "Electronics",
+      "currency": "INR",
+      "description": "Premium noise-cancelling wireless headphones.",
+      "imageURL": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300",
+      "name": "Wireless Bluetooth Headphones",
+      "numReviews": 890,
+      "price": 8999,
+      "qrCodeId": "SP-AUDIO-001",
+      "ratings": 4.7,
+      "stock": 25,
+      "weight": "250g"
+    },
+    {
+      "brand": "Organic Valley",
+      "category": "Food",
+      "currency": "INR",
+      "description": "Premium quality organic basmati rice, 1kg pack.",
+      "imageURL": "https://images.unsplash.com/photo-1586201375761-83865001e8c3?w=300",
+      "name": "Organic Basmati Rice",
+      "numReviews": 567,
+      "price": 299,
+      "qrCodeId": "SP-FOOD-001",
+      "ratings": 4.3,
+      "stock": 50,
+      "weight": "1kg"
+    },
+    {
+      "brand": "Cotton Club",
+      "category": "Apparel",
+      "currency": "INR",
+      "description": "Comfortable 100% cotton t-shirt.",
+      "imageURL": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300",
+      "name": "Cotton T-Shirt",
+      "numReviews": 234,
+      "price": 799,
+      "qrCodeId": "SP-APPAREL-001",
+      "ratings": 4.2,
+      "stock": 30,
+      "weight": "200g"
+    },
+    {
+      "brand": "TechPro",
+      "category": "Accessories",
+      "currency": "INR",
+      "description": "Durable laptop backpack with multiple compartments.",
+      "imageURL": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=300",
+      "name": "Laptop Backpack",
+      "numReviews": 445,
+      "price": 2499,
+      "qrCodeId": "SP-BAG-001",
+      "ratings": 4.6,
+      "stock": 20,
+      "weight": "800g"
+    },
+    {
+      "brand": "Tea Garden",
+      "category": "Food",
+      "currency": "INR",
+      "description": "Premium green tea bags, pack of 50.",
+      "imageURL": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=300",
+      "name": "Green Tea Bags",
+      "numReviews": 678,
+      "price": 449,
+      "qrCodeId": "SP-FOOD-002",
+      "ratings": 4.4,
+      "stock": 40,
+      "weight": "100g"
+    },
+    null,
+    {
+      "brand": "YogaLife",
+      "category": "Fitness",
+      "currency": "INR",
+      "description": "Non-slip yoga mat with extra cushioning.",
+      "imageURL": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=300",
+      "name": "Yoga Mat",
+      "numReviews": 156,
+      "price": 1299,
+      "qrCodeId": "SP-FITNESS-001",
+      "ratings": 4.5,
+      "stock": 35,
+      "weight": "1.2kg"
+    },
+    {
+      "brand": "Coffee Roasters",
+      "category": "Food",
+      "currency": "INR",
+      "description": "Premium arabica coffee beans, 500g pack.",
+      "imageURL": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=300",
+      "name": "Coffee Beans",
+      "numReviews": 334,
+      "price": 899,
+      "qrCodeId": "SP-FOOD-003",
+      "ratings": 4.8,
+      "stock": 25,
+      "weight": "500g"
+    },
+    {
+      "brand": "BrightLight",
+      "category": "Home & Office",
+      "currency": "INR",
+      "description": "LED desk lamp with adjustable brightness.",
+      "imageURL": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300",
+      "name": "Desk Lamp",
+      "numReviews": 287,
+      "price": 1899,
+      "qrCodeId": "SP-HOME-001",
+      "ratings": 4.3,
+      "stock": 22,
+      "weight": "600g"
+    },
+    {
+      "brand": "FitNutrition",
+      "category": "Health & Nutrition",
+      "currency": "INR",
+      "description": "Whey protein powder for muscle building.",
+      "imageURL": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?w=300",
+      "name": "Protein Powder",
+      "numReviews": 512,
+      "price": 3499,
+      "qrCodeId": "SP-NUTRITION-001",
+      "ratings": 4.4,
+      "stock": 28,
+      "weight": "1kg"
+    },
+    {
+      "brand": "SoundWave",
+      "category": "Electronics",
+      "currency": "INR",
+      "description": "Portable Bluetooth speaker with deep bass.",
+      "imageURL": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=300",
+      "name": "Bluetooth Speaker",
+      "numReviews": 423,
+      "price": 2999,
+      "qrCodeId": "SP-AUDIO-002",
+      "ratings": 4.6,
+      "stock": 31,
+      "weight": "500g"
+    },
+    {
+      "brand": "GlowSkin",
+      "category": "Beauty & Personal Care",
+      "currency": "INR",
+      "description": "Vitamin C serum for bright and healthy skin.",
+      "imageURL": "https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?w=300",
+      "name": "Skincare Serum",
+      "numReviews": 789,
+      "price": 1599,
+      "qrCodeId": "SP-BEAUTY-001",
+      "ratings": 4.7,
+      "stock": 45,
+      "weight": "30ml"
+    },
+    {
+      "brand": "PaperCraft",
+      "category": "Stationery",
+      "currency": "INR",
+      "description": "Set of 3 premium notebooks with dotted pages.",
+      "imageURL": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=300",
+      "name": "Notebook Set",
+      "numReviews": 167,
+      "price": 699,
+      "qrCodeId": "SP-STATIONERY-001",
+      "ratings": 4.2,
+      "stock": 55,
+      "weight": "450g"
+    },
+    {
+      "brand": "HydroTech",
+      "category": "Home & Kitchen",
+      "currency": "INR",
+      "description": "Stainless steel insulated water bottle.",
+      "imageURL": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=300",
+      "name": "Water Bottle",
+      "numReviews": 298,
+      "price": 1299,
+      "qrCodeId": "SP-BOTTLE-001",
+      "ratings": 4.5,
+      "stock": 38,
+      "weight": "400g"
+    },
+    {
+      "brand": "GameTech",
+      "category": "Electronics",
+      "currency": "INR",
+      "description": "High-precision gaming mouse with RGB lighting.",
+      "imageURL": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=300",
+      "name": "Gaming Mouse",
+      "numReviews": 645,
+      "price": 2499,
+      "qrCodeId": "SP-GAMING-001",
+      "ratings": 4.8,
+      "stock": 19,
+      "weight": "120g"
+    },
+    {
+      "brand": "NatureCare",
+      "category": "Beauty & Personal Care",
+      "currency": "INR",
+      "description": "Pure almond oil for hair and skin care.",
+      "imageURL": "https://images.unsplash.com/photo-1608571423902-eed4a5ad8108?w=300",
+      "name": "Almond Oil",
+      "numReviews": 378,
+      "price": 599,
+      "qrCodeId": "SP-BEAUTY-002",
+      "ratings": 4.6,
+      "stock": 42,
+      "weight": "200ml"
+    },
+    {
+      "brand": "FamilyFun",
+      "category": "Toys & Games",
+      "currency": "INR",
+      "description": "Strategic board game for family fun.",
+      "imageURL": "https://images.unsplash.com/photo-1606092195730-5d7b9af1efc5?w=300",
+      "name": "Board Game",
+      "numReviews": 234,
+      "price": 1899,
+      "qrCodeId": "SP-GAME-001",
+      "ratings": 4.4,
+      "stock": 15,
+      "weight": "800g"
+    },
+    {
+      "brand": "ChefPro",
+      "category": "Home & Kitchen",
+      "currency": "INR",
+      "description": "Professional kitchen knife set with wooden block.",
+      "imageURL": "https://images.unsplash.com/photo-1594736797933-d0401ba2fe65?w=300",
+      "name": "Kitchen Knife Set",
+      "numReviews": 156,
+      "price": 3999,
+      "qrCodeId": "SP-KITCHEN-001",
+      "ratings": 4.7,
+      "stock": 12,
+      "weight": "2kg"
+    },
+    {
+      "brand": "ChargeTech",
+      "category": "Electronics",
+      "currency": "INR",
+      "description": "Fast charging USB-C cable with durable braided design.",
+      "imageURL": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=300",
+      "name": "Phone Charger",
+      "numReviews": 445,
+      "price": 699,
+      "qrCodeId": "SP-ACCESSORY-001",
+      "ratings": 4.3,
+      "stock": 67,
+      "weight": "100g"
+    },
+    {
+      "brand": "Nature's Best",
+      "category": "Food",
+      "currency": "INR",
+      "description": "Natural, unprocessed honey from local beekeepers. 500g bottle.",
+      "imageURL": "https://images.unsplash.com/photo-1587049633312-d628ae50a8ae?w=300",
+      "name": "Honey (Pure)",
+      "numReviews": 423,
+      "price": 349,
+      "qrCodeId": "SP-FOOD-004",
+      "ratings": 4.6,
+      "stock": 35,
+      "weight": "500g"
+    },
+    {
+      "brand": "ChocoDelight",
+      "category": "Food",
+      "currency": "INR",
+      "description": "70% cocoa dark chocolate bar. Rich, smooth, and antioxidant-rich.",
+      "imageURL": "https://images.unsplash.com/photo-1606312619070-d48b4c652a52?w=300",
+      "name": "Dark Chocolate",
+      "numReviews": 567,
+      "price": 199,
+      "qrCodeId": "SP-FOOD-005",
+      "ratings": 4.7,
+      "stock": 60,
+      "weight": "100g"
+    },
+    {
+      "brand": "SunGold",
+      "category": "Oil",
+      "currency": "INR",
+      "description": "Refined sunflower cooking oil. Heart-healthy and light. 1L bottle.",
+      "imageURL": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300",
+      "name": "Sunflower Oil",
+      "numReviews": 289,
+      "price": 149,
+      "qrCodeId": "SP-OIL-001",
+      "ratings": 4.2,
+      "stock": 45,
+      "weight": "1L"
+    },
+    {
+      "brand": "Mediterranean Gold",
+      "category": "Oil",
+      "currency": "INR",
+      "description": "Premium extra virgin olive oil. Cold-pressed and perfect for salads. 500ml.",
+      "imageURL": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300",
+      "name": "Olive Oil (Extra Virgin)",
+      "numReviews": 445,
+      "price": 599,
+      "qrCodeId": "SP-OIL-002",
+      "ratings": 4.8,
+      "stock": 28,
+      "weight": "500ml"
+    },
+    {
+      "brand": "TropicPure",
+      "category": "Oil",
+      "currency": "INR",
+      "description": "Pure coconut oil for cooking and hair care. Natural and unrefined. 500ml.",
+      "imageURL": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=300",
+      "name": "Coconut Oil",
+      "numReviews": 334,
+      "price": 249,
+      "qrCodeId": "SP-OIL-003",
+      "ratings": 4.5,
+      "stock": 38,
+      "weight": "500ml"
+    },
+    {
+      "brand": "Ashirvaad",
+      "category": "Atta",
+      "currency": "INR",
+      "description": "Fresh ground whole wheat flour for chapatis and bread. 5kg pack.",
+      "imageURL": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300",
+      "name": "Whole Wheat Atta",
+      "numReviews": 756,
+      "price": 299,
+      "qrCodeId": "SP-ATTA-001",
+      "ratings": 4.4,
+      "stock": 42,
+      "weight": "5kg"
+    },
+    {
+      "brand": "Saffola",
+      "category": "Atta",
+      "currency": "INR",
+      "description": "Nutritious multigrain flour blend with wheat, oats, and barley. 2kg pack.",
+      "imageURL": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300",
+      "name": "Multigrain Atta",
+      "numReviews": 445,
+      "price": 189,
+      "qrCodeId": "SP-ATTA-002",
+      "ratings": 4.3,
+      "stock": 35,
+      "weight": "2kg"
+    },
+    {
+      "brand": "Organic Harvest",
+      "category": "Wheat",
+      "currency": "INR",
+      "description": "Whole wheat grains for home grinding. Organic and pesticide-free. 10kg.",
+      "imageURL": "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=300",
+      "name": "Organic Wheat Grains",
+      "numReviews": 234,
+      "price": 549,
+      "qrCodeId": "SP-WHEAT-001",
+      "ratings": 4.6,
+      "stock": 25,
+      "weight": "10kg"
+    }
+  ],
+  "recipes": {
+    "recipe1": {
+      "id": 2,
+      "name": "Methi Thepla (Low-Fat)",
+      "description": "Nutritious Gujarati flatbread made with fenugreek leaves, whole wheat flour, and mild spices. Ideal for diabetic-friendly diets.",
+      "ingredients": [
+        {
+          "id": "ING-06",
+          "name": "Whole Wheat Flour",
+          "description": "Fiber-rich flour used as a base for healthy flatbreads like thepla.",
+          "price": 60,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-WHEAT-FLOUR",
+          "stock": 100,
+          "imageURL": "https://media.istockphoto.com/id/172876049/photo/whole-wheat-flour.jpg?s=1024x1024&w=is&k=20&c=Ps9h_KsmlE2XHrhVKhYKSJ1oEklIsXMfpgXaALn34iE=",
+          "category": "Grains",
+          "brand": "Aashirvaad",
+          "weight": "1kg",
+          "ratings": 4.6,
+          "numReviews": 230
+        },
+        {
+          "id": "ING-07",
+          "name": "Fresh Methi Leaves",
+          "description": "Fenugreek leaves packed with fiber and blood sugar-lowering properties.",
+          "price": 30,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-METHI",
+          "stock": 50,
+          "imageURL": "https://cdn.pixabay.com/photo/2017/11/09/10/08/fenugreek-2932921_1280.jpg",
+          "category": "Vegetables",
+          "brand": "Local Farms",
+          "weight": "100g",
+          "ratings": 4.5,
+          "numReviews": 110
+        },
+        {
+          "id": "ING-08",
+          "name": "Low-Fat Curd",
+          "description": "Helps soften the thepla and adds a tangy flavor, suitable for diabetics.",
+          "price": 35,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-LOWFAT-CURD",
+          "stock": 60,
+          "imageURL": "https://media.istockphoto.com/id/1500599620/photo/fresh-curd-and-herbs-dairy-product.jpg?s=1024x1024&w=is&k=20&c=-YqBuLzrD-F0ypCf5HFKf5kHTkKe8bNDarezcgJJrOc=",
+          "category": "Dairy",
+          "brand": "Amul",
+          "weight": "200ml",
+          "ratings": 4.4,
+          "numReviews": 98
+        },
+        {
+          "id": "ING-09",
+          "name": "Ajwain (Carom Seeds)",
+          "description": "Aids digestion and adds aroma to thepla.",
+          "price": 20,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-AJWAIN",
+          "stock": 80,
+          "imageURL": "https://cdn.pixabay.com/photo/2018/05/13/10/11/ajwain-3395800_1280.jpg",
+          "category": "Spices",
+          "brand": "Everest",
+          "weight": "50g",
+          "ratings": 4.5,
+          "numReviews": 75
+        },
+        {
+          "id": "ING-10",
+          "name": "Turmeric Powder",
+          "description": "Anti-inflammatory spice that enhances flavor and color.",
+          "price": 20,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-TURMERIC",
+          "stock": 90,
+          "imageURL": "https://media.istockphoto.com/id/671653020/photo/turmeric-in-bowl.jpg?s=2048x2048&w=is&k=20&c=ozsCXeUBB683EL9c3bOpXkOJyPiSqovUIAIWRKtM5os=",
+          "category": "Spices",
+          "brand": "Catch",
+          "weight": "50g",
+          "ratings": 4.7,
+          "numReviews": 140
+        }
+      ],
+      "type": "Diabetic-Friendly"
+    },
+    "recipe2": {
+      "id": 3,
+      "name": "Moong Dal Chilla",
+      "description": "Protein-packed savory Indian pancakes made with moong dal and mild spices. A perfect low-GI meal for diabetics.",
+      "ingredients": [
+        {
+          "id": "ING-11",
+          "name": "Yellow Moong Dal",
+          "description": "Split yellow lentils rich in protein and low in carbs, ideal for diabetic meals.",
+          "price": 60,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-MOONG-DAL",
+          "stock": 100,
+          "imageURL": "https://images.unsplash.com/photo-1702041357314-db5826c96f04?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Pulses",
+          "brand": "Tata Sampann",
+          "weight": "500g",
+          "ratings": 4.6,
+          "numReviews": 180
+        },
+        {
+          "id": "ING-12",
+          "name": "Onion",
+          "description": "Fresh onions add crunch and flavor to the chilla batter.",
+          "price": 70,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-ONION",
+          "stock": 200,
+          "imageURL": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=1024x1024&w=is&k=20&c=m05RvoCCJCK3Ox-jBTB_jShVK8WtxI9-ngbswA_ztk0=",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "1 pc",
+          "ratings": 4.4,
+          "numReviews": 105
+        },
+        {
+          "id": "ING-13",
+          "name": "Green Chilli",
+          "description": "Adds mild spice and flavor; optional based on preference.",
+          "price": 25,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-GREEN-CHILLI",
+          "stock": 150,
+          "imageURL": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "50g",
+          "ratings": 4.3,
+          "numReviews": 95
+        },
+        {
+          "id": "ING-14",
+          "name": "Coriander Leaves",
+          "description": "Fresh herbs that add aroma and taste, while being low in calories.",
+          "price": 35,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CORIANDER",
+          "stock": 80,
+          "imageURL": "https://images.unsplash.com/photo-1535189487909-a262ad10c165?q=80&w=1099&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Herbs",
+          "brand": "Local Farms",
+          "weight": "50g",
+          "ratings": 4.7,
+          "numReviews": 122
+        },
+        {
+          "id": "ING-15",
+          "name": "Cumin Seeds",
+          "description": "Helps digestion and gives earthy flavor to chilla batter.",
+          "price": 45,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CUMIN",
+          "stock": 90,
+          "imageURL": "https://media.istockphoto.com/id/144803768/photo/white-bowl-with-cumin-seeds.jpg?s=2048x2048&w=is&k=20&c=VqpPwqaYRFasOJzXxAXdlsiexRjKUv04wuoLYlnNFlo=",
+          "category": "Spices",
+          "brand": "Catch",
+          "weight": "50g",
+          "ratings": 4.6,
+          "numReviews": 134
+        }
+      ],
+      "type": "Diabetic-Friendly"
+    },
+    "recipe3": {
+      "id": 4,
+      "name": "Oats Upma with Vegetables",
+      "description": "A fiber-rich, low-GI breakfast made with rolled oats and fresh vegetables. Perfect for diabetic-friendly meal planning.",
+      "ingredients": [
+        {
+          "id": "ING-16",
+          "name": "Rolled Oats",
+          "description": "Whole grain oats high in fiber and ideal for managing blood sugar levels.",
+          "price": 65,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-OATS",
+          "stock": 100,
+          "imageURL": "https://media.istockphoto.com/id/511012192/photo/oat-flakes-in-a-bowl-from-directly-above.jpg?s=1024x1024&w=is&k=20&c=OQZ9Bq_bqYk4bLnLPCIv5hkPWMLQgDIRRuzAglROZEU=",
+          "category": "Grains",
+          "brand": "Quaker",
+          "weight": "500g",
+          "ratings": 4.7,
+          "numReviews": 210
+        },
+        {
+          "id": "ING-17",
+          "name": "Carrot",
+          "description": "Chopped fresh carrots add crunch, color, and beta-carotene.",
+          "price": 27,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CARROT",
+          "stock": 150,
+          "imageURL": "https://media.istockphoto.com/id/2150710300/photo/overhead-view-of-freshly-sliced-organic-carrots-on-cutting-board.jpg?s=2048x2048&w=is&k=20&c=4_fz9E53ep4COx7ATjtUvyzRxKL1sLOAI8CxVXusYOM=",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "1 pc",
+          "ratings": 4.5,
+          "numReviews": 102
+        },
+        {
+          "id": "ING-18",
+          "name": "Green Peas",
+          "description": "Naturally sweet and fiber-rich, perfect for healthy upma.",
+          "price": 50,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-GREEN-PEAS",
+          "stock": 100,
+          "imageURL": "https://images.unsplash.com/photo-1642864106922-f79b4aea18b4?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Vegetables",
+          "brand": "Safal",
+          "weight": "250g",
+          "ratings": 4.4,
+          "numReviews": 115
+        },
+        {
+          "id": "ING-19",
+          "name": "Mustard Seeds",
+          "description": "Tempering spice that adds sharp flavor to upma.",
+          "price": 30,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-MUSTARD-SEEDS",
+          "stock": 120,
+          "imageURL": "https://media.istockphoto.com/id/1365597633/photo/black-mustard-seeds.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+          "category": "Spices",
+          "brand": "Everest",
+          "weight": "50g",
+          "ratings": 4.6,
+          "numReviews": 97
+        },
+        {
+          "id": "ING-20",
+          "name": "Curry Leaves",
+          "description": "Fresh aromatic leaves that add flavor and aid digestion.",
+          "price": 34,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CURRY-LEAVES",
+          "stock": 90,
+          "imageURL": "https://media.istockphoto.com/id/136146217/photo/curry-leaves.jpg?s=2048x2048&w=is&k=20&c=Qb33TkcudquYnaQ7tbShIL3s74NiaYTAOcxlkQkkhik=",
+          "category": "Herbs",
+          "brand": "Local",
+          "weight": "20g",
+          "ratings": 4.7,
+          "numReviews": 88
+        }
+      ],
+      "type": "Diabetic-Friendly"
+    },
+    "recipe4": {
+      "id": 5,
+      "name": "Ragi Dosa",
+      "description": "Crispy and healthy South Indian dosa made from ragi flour, ideal for diabetics due to its low glycemic index and high fiber content.",
+      "ingredients": [
+        {
+          "id": "ING-21",
+          "name": "Ragi Flour",
+          "description": "Finger millet flour rich in calcium and fiber, helps regulate blood sugar.",
+          "price": 55,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-RAGI-FLOUR",
+          "stock": 100,
+          "imageURL": "https://media.istockphoto.com/id/985919390/photo/ragi-nachni-also-known-as-finger-millet-and-ragi-flour-which-is-a-healthy-food-and-is-gluten.jpg?s=2048x2048&w=is&k=20&c=6GFTVKVzI724T43QeKhfNLnY0en8oYwTgO_JAVrZCYk=",
+          "category": "Grains",
+          "brand": "24 Mantra Organic",
+          "weight": "500g",
+          "ratings": 4.7,
+          "numReviews": 165
+        },
+        {
+          "id": "ING-22",
+          "name": "Rice Flour",
+          "description": "Used in small quantity for crispiness in dosa batter.",
+          "price": 40,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-RICE-FLOUR",
+          "stock": 80,
+          "imageURL": "https://media.istockphoto.com/id/1163428782/photo/rice-flour-and-rice-grain-on-wooden-surface-along-with-some-green-tea-in-a-transparent-glass.jpg?s=1024x1024&w=is&k=20&c=LrUKr1LIVfFB9pCCjj8BB4lFvgcqz-kH-FLxChLodFc=",
+          "category": "Grains",
+          "brand": "Aashirvaad",
+          "weight": "500g",
+          "ratings": 4.4,
+          "numReviews": 98
+        },
+        {
+          "id": "ING-23",
+          "name": "Curd (Low-Fat)",
+          "description": "Helps ferment the batter and adds mild tangy flavor.",
+          "price": 35,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CURD",
+          "stock": 60,
+          "imageURL": "https://media.istockphoto.com/id/1500599620/photo/fresh-curd-and-herbs-dairy-product.jpg?s=1024x1024&w=is&k=20&c=-YqBuLzrD-F0ypCf5HFKf5kHTkKe8bNDarezcgJJrOc=",
+          "category": "Dairy",
+          "brand": "Amul",
+          "weight": "200ml",
+          "ratings": 4.5,
+          "numReviews": 108
+        },
+        {
+          "id": "ING-24",
+          "name": "Cumin Seeds",
+          "description": "Adds flavor and aids digestion, common in dosa preparations.",
+          "price": 45,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CUMIN-SEEDS",
+          "stock": 100,
+          "imageURL": "https://media.istockphoto.com/id/144803768/photo/white-bowl-with-cumin-seeds.jpg?s=2048x2048&w=is&k=20&c=VqpPwqaYRFasOJzXxAXdlsiexRjKUv04wuoLYlnNFlo=",
+          "category": "Spices",
+          "brand": "Catch",
+          "weight": "50g",
+          "ratings": 4.6,
+          "numReviews": 134
+        },
+        {
+          "id": "ING-25",
+          "name": "Green Chilli",
+          "description": "Optional for mild heat and sharpness in dosa batter.",
+          "price": 25,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-GREEN-CHILLI-RAGI",
+          "stock": 100,
+          "imageURL": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "50g",
+          "ratings": 4.3,
+          "numReviews": 91
+        }
+      ],
+      "type": "Diabetic-Friendly"
+    },
+    "recipe5": {
+      "id": 6,
+      "name": "Lauki (Bottle Gourd) Curry",
+      "description": "Light, hydrating, and low-calorie curry made from bottle gourd. Ideal for managing blood sugar",
+      "ingredients": [
+        {
+          "id": "ING-26",
+          "name": "Bottle Gourd (Lauki)",
+          "description": "A hydrating and fibrous vegetable with low glycemic index, perfect for diabetic meals.",
+          "price": 25,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-LAUKI",
+          "stock": 70,
+          "imageURL": "https://media.istockphoto.com/id/1194258667/photo/bottle-gourd-for-sale-in-market.jpg?s=2048x2048&w=is&k=20&c=AEiKevQN_kVdakcbf0_xcvXYTXWeWhgf_2CiY1XZln0=",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "500g",
+          "ratings": 4.6,
+          "numReviews": 120
+        },
+        {
+          "id": "ING-27",
+          "name": "Tomato",
+          "description": "Fresh tomatoes add tang and nutrition to the curry base.",
+          "price": 55,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-TOMATO",
+          "stock": 100,
+          "imageURL": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "1 pc",
+          "ratings": 4.5,
+          "numReviews": 102
+        },
+        {
+          "id": "ING-28",
+          "name": "Ginger-Garlic Paste",
+          "description": "Aromatic base ingredient used to enhance flavor and aid digestion.",
+          "price": 20,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-GINGER-GARLIC",
+          "stock": 60,
+          "imageURL": "https://media.istockphoto.com/id/924125268/photo/image-of-a-ginger-garlic-paste.jpg?s=2048x2048&w=is&k=20&c=dcYME0ypx1yKXqMwQTr8DHttNv2dWp7JK4V9oXax-Rk=",
+          "category": "Condiments",
+          "brand": "Smith & Jones",
+          "weight": "100g",
+          "ratings": 4.4,
+          "numReviews": 95
+        },
+        {
+          "id": "ING-29",
+          "name": "Cumin Seeds",
+          "description": "Tempering spice that adds earthy flavor and aids digestion.",
+          "price": 45,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CUMIN-LAUKI",
+          "stock": 90,
+          "imageURL": "https://media.istockphoto.com/id/144803768/photo/white-bowl-with-cumin-seeds.jpg?s=2048x2048&w=is&k=20&c=VqpPwqaYRFasOJzXxAXdlsiexRjKUv04wuoLYlnNFlo=",
+          "category": "Spices",
+          "brand": "Catch",
+          "weight": "50g",
+          "ratings": 4.6,
+          "numReviews": 134
+        },
+        {
+          "id": "ING-30",
+          "name": "Turmeric Powder",
+          "description": "Anti-inflammatory spice that adds color and health benefits.",
+          "price": 20,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-TURMERIC-LAUKI",
+          "stock": 90,
+          "imageURL": "https://media.istockphoto.com/id/671653020/photo/turmeric-in-bowl.jpg?s=2048x2048&w=is&k=20&c=ozsCXeUBB683EL9c3bOpXkOJyPiSqovUIAIWRKtM5os=",
+          "category": "Spices",
+          "brand": "Catch",
+          "weight": "50g",
+          "ratings": 4.7,
+          "numReviews": 140
+        }
+      ],
+      "type": "Diabetic-Friendly"
+    },
+    "recipe6": {
+      "id": 7,
+      "name": "Quinoa Upma",
+      "description": "Protein-rich breakfast made with quinoa and vegetables. High in fiber and essential amino acids.",
+      "ingredients": [
+        {
+          "id": "ING-31",
+          "name": "Quinoa",
+          "description": "Complete protein grain rich in fiber and essential nutrients.",
+          "price": 120,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-QUINOA",
+          "stock": 80,
+          "imageURL": "https://media.istockphoto.com/id/1365597633/photo/quinoa-grains.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+          "category": "Grains",
+          "brand": "Organic India",
+          "weight": "500g",
+          "ratings": 4.8,
+          "numReviews": 156
+        },
+        {
+          "id": "ING-32",
+          "name": "Mixed Vegetables",
+          "description": "Fresh vegetables for nutrition and color.",
+          "price": 45,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-MIXED-VEG",
+          "stock": 100,
+          "imageURL": "https://media.istockphoto.com/id/1365597633/photo/fresh-vegetables.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+          "category": "Vegetables",
+          "brand": "Local",
+          "weight": "250g",
+          "ratings": 4.5,
+          "numReviews": 89
+        }
+      ],
+      "type": "High-Protein"
+    },
+    "recipe7": {
+      "id": 8,
+      "name": "Chia Pudding",
+      "description": "Healthy breakfast pudding made with chia seeds, almond milk, and fresh fruits.",
+      "ingredients": [
+        {
+          "id": "ING-33",
+          "name": "Chia Seeds",
+          "description": "Rich in omega-3 fatty acids and fiber.",
+          "price": 85,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-CHIA",
+          "stock": 60,
+          "imageURL": "https://media.istockphoto.com/id/1365597633/photo/chia-seeds.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+          "category": "Seeds",
+          "brand": "Organic India",
+          "weight": "200g",
+          "ratings": 4.7,
+          "numReviews": 134
+        },
+        {
+          "id": "ING-34",
+          "name": "Almond Milk",
+          "description": "Dairy-free milk alternative rich in vitamin E.",
+          "price": 95,
+          "currency": "INR",
+          "qrCodeId": "SP-ING-ALMOND-MILK",
+          "stock": 70,
+          "imageURL": "https://media.istockphoto.com/id/1365597633/photo/almond-milk.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+          "category": "Dairy Alternatives",
+          "brand": "Almond Breeze",
+          "weight": "1L",
+          "ratings": 4.6,
+          "numReviews": 98
+        }
+             ],
+       "type": "Vegan"
+     },
+     "recipe8": {
+       "id": 9,
+       "name": "Bitter Gourd (Karela) Stir Fry",
+       "description": "A simple stir-fried dish made with bitter gourd, known for its blood sugar-lowering properties. Highly recommended for diabetic diets.",
+       "ingredients": [
+         {
+           "id": "ING-36",
+           "name": "Bitter Gourd (Karela)",
+           "description": "Powerful anti-diabetic vegetable known for reducing blood sugar levels naturally.",
+           "price": 40,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-KARELA",
+           "stock": 60,
+           "imageURL": "https://media.istockphoto.com/id/1249983832/photo/bitter-gourd-in-ladle-red-background.jpg?s=1024x1024&w=is&k=20&c=KVq_Ry1K9C6q6Mb3tblMBy4KXksk3gtvbPkaZm2vMhg=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "500g",
+           "ratings": 4.5,
+           "numReviews": 85
+         },
+         {
+           "id": "ING-37",
+           "name": "Onion",
+           "description": "Adds sweetness and balances the bitterness of karela.",
+           "price": 30,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-ONION-KARELA",
+           "stock": 150,
+           "imageURL": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=1024x1024&w=is&k=20&c=m05RvoCCJCK3Ox-jBTB_jShVK8WtxI9-ngbswA_ztk0=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.4,
+           "numReviews": 98
+         },
+         {
+           "id": "ING-38",
+           "name": "Mustard Seeds",
+           "description": "Used for tempering; adds nutty aroma and supports digestion.",
+           "price": 40,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-MUSTARD-KARELA",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/1365597633/photo/black-mustard-seeds.jpg?s=2048x2048&w=is&k=20&c=iyBde2XNYD2WyQGv3mGWsnjqombz2HEVHVydGeS5qBE=",
+           "category": "Spices",
+           "brand": "Everest",
+           "weight": "50g",
+           "ratings": 4.6,
+           "numReviews": 93
+         },
+         {
+           "id": "ING-39",
+           "name": "Turmeric Powder",
+           "description": "Balances bitterness and boosts anti-inflammatory benefits.",
+           "price": 27,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-TURMERIC-KARELA",
+           "stock": 120,
+           "imageURL": "https://media.istockphoto.com/id/671653020/photo/turmeric-in-bowl.jpg?s=2048x2048&w=is&k=20&c=ozsCXeUBB683EL9c3bOpXkOJyPiSqovUIAIWRKtM5os=",
+           "category": "Spices",
+           "brand": "Catch",
+           "weight": "50g",
+           "ratings": 4.7,
+           "numReviews": 110
+         },
+         {
+           "id": "ING-40",
+           "name": "Groundnut Oil",
+           "description": "Light, stable oil suitable for stir-frying; diabetic-friendly when used in moderation.",
+           "price": 45,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-GROUNDNUT-OIL",
+           "stock": 90,
+           "imageURL": "https://media.istockphoto.com/id/964876998/photo/peanut-oil-in-glass-bottle-and-peanuts-on-wooden-table.webp?a=1&b=1&s=612x612&w=0&k=20&c=hHngCdpM1LxXhUgdQj9_t_fEeugIeaGLaUuEXyIN51Y=",
+           "category": "Oils",
+           "brand": "Fortune",
+           "weight": "500ml",
+           "ratings": 4.5,
+           "numReviews": 89
+         }
+       ],
+       "type": "Diabetic-Friendly"
+     },
+     "recipe9": {
+       "id": 10,
+       "name": "Cabbage and Palak Paratha (No Maida)",
+       "description": "Nutritious whole wheat flatbread stuffed with shredded cabbage and spinach (palak). High in fiber and iron.",
+       "ingredients": [
+         {
+           "id": "ING-41",
+           "name": "Whole Wheat Flour",
+           "description": "Healthy base for parathas; rich in fiber and low glycemic index.",
+           "price": 40,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-WHOLE-WHEAT-CABBAGE",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/172876049/photo/whole-wheat-flour.jpg?s=1024x1024&w=is&k=20&c=Ps9h_KsmlE2XHrhVKhYKSJ1oEklIsXMfpgXaALn34iE=",
+           "category": "Grains",
+           "brand": "Aashirvaad",
+           "weight": "1kg",
+           "ratings": 4.6,
+           "numReviews": 230
+         },
+         {
+           "id": "ING-42",
+           "name": "Cabbage",
+           "description": "Finely shredded cabbage adds crunch, fiber, and nutrients.",
+           "price": 55,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-CABBAGE",
+           "stock": 70,
+           "imageURL": "https://media.istockphoto.com/id/511601384/photo/fresh-green-garden-cabbage-on-rustic-wooden-background.jpg?s=2048x2048&w=is&k=20&c=BJSGglEMmktZ5m2a_F5tKfMk4P2IgcqHwMZYd-jTK2w=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "500g",
+           "ratings": 4.5,
+           "numReviews": 88
+         },
+         {
+           "id": "ING-43",
+           "name": "Spinach (Palak)",
+           "description": "Iron-rich leafy green, great for immunity and blood sugar regulation.",
+           "price": 20,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-SPINACH",
+           "stock": 60,
+           "imageURL": "https://media.istockphoto.com/id/1159979911/photo/spinach-bunch-and-cutting-board-on-dark-grey-blackboard.jpg?s=2048x2048&w=is&k=20&c=0UAv6KFrnecyoRnRHEhYO3fY1fDwQw8_nBIOx4vqwdw=",
+           "category": "Vegetables",
+           "brand": "Local Farms",
+           "weight": "250g",
+           "ratings": 4.7,
+           "numReviews": 102
+         },
+         {
+           "id": "ING-44",
+           "name": "Ajwain (Carom Seeds)",
+           "description": "Helps digestion and adds aroma to parathas.",
+           "price": 20,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-AJWAIN-PARATHA",
+           "stock": 90,
+           "imageURL": "https://cdn.pixabay.com/photo/2018/05/13/10/11/ajwain-3395800_1280.jpg",
+           "category": "Spices",
+           "brand": "Everest",
+           "weight": "50g",
+           "ratings": 4.6,
+           "numReviews": 75
+         },
+         {
+           "id": "ING-45",
+           "name": "Green Chilli",
+           "description": "Chopped green chilies add spice to the paratha stuffing.",
+           "price": 54,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-GREENCHILLI-PARATHA",
+           "stock": 100,
+           "imageURL": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "50g",
+           "ratings": 4.4,
+           "numReviews": 92
+         }
+       ],
+       "type": "Diabetic-Friendly"
+     },
+     "recipe10": {
+       "id": 11,
+       "name": "Quinoa Khichdi with Mixed Veggies",
+       "description": "A nutrient-rich, diabetic-friendly khichdi made with quinoa and assorted vegetables. Packed with protein, fiber, and antioxidants.",
+       "ingredients": [
+         {
+           "id": "ING-46",
+           "name": "Quinoa",
+           "description": "High-protein, gluten-free grain with low glycemic index; perfect rice substitute for khichdi.",
+           "price": 110,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-QUINOA",
+           "stock": 70,
+           "imageURL": "https://cdn.pixabay.com/photo/2021/06/16/14/31/quinoa-6341421_1280.jpg",
+           "category": "Grains",
+           "brand": "True Elements",
+           "weight": "500g",
+           "ratings": 4.7,
+           "numReviews": 145
+         },
+         {
+           "id": "ING-47",
+           "name": "Moong Dal",
+           "description": "Easily digestible lentil rich in protein and low in carbs.",
+           "price": 60,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-MOONGDAL-KHICHDI",
+           "stock": 90,
+           "imageURL": "https://images.unsplash.com/photo-1702041357314-db5826c96f04?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "category": "Pulses",
+           "brand": "Tata Sampann",
+           "weight": "500g",
+           "ratings": 4.6,
+           "numReviews": 180
+         }
+       ],
+       "type": "Diabetic-Friendly"
+     },
+     "recipe11": {
+       "id": 12,
+       "name": "Sprouted Moong Salad",
+       "description": "A refreshing, protein-rich salad made with sprouted green gram, veggies, and lemon juice. Great for diabetics and weight management.",
+       "ingredients": [
+         {
+           "id": "ING-51",
+           "name": "Sprouted Moong",
+           "description": "High-protein sprouted green gram rich in fiber and essential nutrients.",
+           "price": 30,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-SPROUTED-MOONG",
+           "stock": 70,
+           "imageURL": "https://media.istockphoto.com/id/1427448298/photo/sprouts-in-a-bowl-black-background.jpg?s=2048x2048&w=is&k=20&c=zn5iC5K0NzRHG41CIj0VARcmt9V05xbYa_ltR_ITi7I=",
+           "category": "Pulses",
+           "brand": "Organic Tattva",
+           "weight": "250g",
+           "ratings": 4.7,
+           "numReviews": 135
+         },
+         {
+           "id": "ING-52",
+           "name": "Cucumber",
+           "description": "Adds freshness and hydration to the salad with very low calories.",
+           "price": 45,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-CUCUMBER",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/1045761832/photo/fresh-green-cucumber-salad.jpg?s=612x612&w=0&k=20&c=fd_Nz1zp1oRKZchOSITivJmFkcJCPDNHlp8ifXRG0aM=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.5,
+           "numReviews": 92
+         },
+         {
+           "id": "ING-53",
+           "name": "Tomato",
+           "description": "Juicy and tangy addition that boosts the salad's antioxidant value.",
+           "price": 60,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-TOMATO-SPROUT",
+           "stock": 120,
+           "imageURL": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.6,
+           "numReviews": 105
+         },
+         {
+           "id": "ING-54",
+           "name": "Lemon",
+           "description": "Adds zing and helps with iron absorption from sprouts.",
+           "price": 36,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-LEMON",
+           "stock": 150,
+           "imageURL": "https://media.istockphoto.com/id/871706470/photo/group-of-fresh-lemon-on-an-old-vintage-wooden-table.jpg?s=612x612&w=0&k=20&c=W6_D3f5DwB1R1GFY31nom4Q7pdE4QXc7FEfthah-W1g=",
+           "category": "Fruits",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.7,
+           "numReviews": 88
+         },
+         {
+           "id": "ING-55",
+           "name": "Black Salt",
+           "description": "Used as a healthy seasoning; enhances flavor and aids digestion.",
+           "price": 20,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-BLACK-SALT",
+           "stock": 80,
+           "imageURL": "https://media.istockphoto.com/id/1271636897/photo/hawaiian-natural-black-salt-in-the-wooden-bowl.jpg?s=612x612&w=0&k=20&c=JBTxOkkGIVjfCtHw2GJFWwr5mRlFm5SBtMgiADj32MM=",
+           "category": "Spices",
+           "brand": "Catch",
+           "weight": "100g",
+           "ratings": 4.5,
+           "numReviews": 72
+         }
+       ],
+       "type": "Diabetic-Friendly"
+     },
+     "recipe12": {
+       "id": 13,
+       "name": "Besan Cheela (Chickpea Pancake)",
+       "description": "Savory Indian pancakes made from chickpea flour, herbs, and spices. Naturally low in sugar and high in protein and fiber.",
+       "ingredients": [
+         {
+           "id": "ING-56",
+           "name": "Besan (Chickpea Flour)",
+           "description": "Gluten-free flour rich in protein and fiber; ideal for low sugar and diabetic-friendly meals.",
+           "price": 45,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-BESAN",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/1024537560/photo/besan-gram-or-chickpea-flour-is-a-pulse-flour-made-from-a-variety-of-ground-chickpea-known-as.jpg?s=612x612&w=0&k=20&c=45xasSYYTDzV7bi3R36sHuCH1Zfd0gcSSosYW9zBun4=",
+           "category": "Grains",
+           "brand": "Organic Tattva",
+           "weight": "500g",
+           "ratings": 4.7,
+           "numReviews": 160
+         },
+         {
+           "id": "ING-57",
+           "name": "Onion",
+           "description": "Finely chopped onion adds crunch and flavor to cheela batter.",
+           "price": 50,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-ONION-CHEELA",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=1024x1024&w=is&k=20&c=m05RvoCCJCK3Ox-jBTB_jShVK8WtxI9-ngbswA_ztk0=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.5,
+           "numReviews": 92
+         },
+         {
+           "id": "ING-58",
+           "name": "Tomato",
+           "description": "Adds tangy taste and softness to the cheela.",
+           "price": 70,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-TOMATO-CHEELA",
+           "stock": 90,
+           "imageURL": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.6,
+           "numReviews": 98
+         },
+         {
+           "id": "ING-59",
+           "name": "Green Chilli",
+           "description": "Adds mild heat and spice to the pancake batter.",
+           "price": 55,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-GREEN-CHILLI-CHEELA",
+           "stock": 100,
+           "imageURL": "https://images.unsplash.com/photo-1576763595295-c0371a32af78?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "50g",
+           "ratings": 4.4,
+           "numReviews": 80
+         },
+         {
+           "id": "ING-60",
+           "name": "Carom Seeds (Ajwain)",
+           "description": "Aids digestion and adds a traditional Indian flavor.",
+           "price": 65,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-AJWAIN-CHEELA",
+           "stock": 85,
+           "imageURL": "https://cdn.pixabay.com/photo/2018/05/13/10/11/ajwain-3395800_1280.jpg",
+           "category": "Spices",
+           "brand": "Everest",
+           "weight": "50g",
+           "ratings": 4.5,
+           "numReviews": 74
+         }
+       ],
+       "type": "Low Sugar"
+     },
+     "recipe13": {
+       "id": 14,
+       "name": "Cauliflower Rice Pulao",
+       "description": "A flavorful, low-carb pulao made using grated cauliflower instead of rice, mixed with spices and vegetables.",
+       "ingredients": [
+         {
+           "id": "ING-61",
+           "name": "Cauliflower",
+           "description": "Grated into rice-like texture; low in carbs and high in fiber, great rice substitute.",
+           "price": 25,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-CAULIFLOWER",
+           "stock": 60,
+           "imageURL": "https://media.istockphoto.com/id/90634594/photo/close-up-of-several-heads-of-cauliflower.jpg?s=612x612&w=0&k=20&c=hpYY7BqSUNwM-oq26wNv5pGLSPf4HijXr3zA0J3yd0E=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "500g",
+           "ratings": 4.6,
+           "numReviews": 112
+         },
+         {
+           "id": "ING-62",
+           "name": "Carrot",
+           "description": "Adds natural sweetness and color to the pulao without spiking sugar levels.",
+           "price": 27,
+           "currency": "INR",
+           "qrCodeId": "SP-ING-CARROT-PULAO",
+           "stock": 100,
+           "imageURL": "https://media.istockphoto.com/id/2150710300/photo/overhead-view-of-freshly-sliced-organic-carrots-on-cutting-board.jpg?s=2048x2048&w=is&k=20&c=4_fz9E53ep4COx7ATjtUvyzRxKL1sLOAI8CxVXusYOM=",
+           "category": "Vegetables",
+           "brand": "Local",
+           "weight": "1 pc",
+           "ratings": 4.5,
+           "numReviews": 93
+         }
+       ],
+       "type": "Low-Carb"
+     },
+     "recipe14": {
+  "id": 15,
+  "name": "Baingan Bharta (Roasted Eggplant Mash)",
+  "description": "Smoky-flavored mashed brinjal mixed with onion, tomato, and spices. A low-calorie, low-sugar North Indian side dish.",
+  "ingredients": [
+    {
+      "id": "ING-66",
+      "name": "Eggplant (Baingan)",
+      "description": "Roasted large brinjal, mashed for bharta. Low in carbs and calories.",
+      "price": 20,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-BAINGAN",
+      "stock": 60,
+      "imageURL": "https://media.istockphoto.com/id/173879887/photo/eggplants-isolated.jpg?s=612x612&w=0&k=20&c=A1lVxSl3J3GluYQ_9lfR2rlBIf7VVEUoJrkeUzvbdWQ=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "500g",
+      "ratings": 4.5,
+      "numReviews": 94
+    },
+    {
+      "id": "ING-67",
+      "name": "Onion",
+      "description": "Chopped finely to add texture and mild sweetness.",
+      "price": 40,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-ONION-BHARTA",
+      "stock": 100,
+      "imageURL": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=1024x1024&w=is&k=20&c=m05RvoCCJCK3Ox-jBTB_jShVK8WtxI9-ngbswA_ztk0=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "1 pc",
+      "ratings": 4.5,
+      "numReviews": 89
+    },
+    {
+      "id": "ING-68",
+      "name": "Tomato",
+      "description": "Provides acidity and depth of flavor to mashed eggplant.",
+      "price": 50,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-TOMATO-BHARTA",
+      "stock": 120,
+      "imageURL": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "1 pc",
+      "ratings": 4.6,
+      "numReviews": 92
+    },
+    {
+      "id": "ING-69",
+      "name": "Garlic",
+      "description": "Finely chopped garlic adds aroma and spice to bharta.",
+      "price": 80,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-GARLIC-BHARTA",
+      "stock": 90,
+      "imageURL": "https://media.istockphoto.com/id/2058002828/photo/garlic-bulb-and-clove-isolated-garlic-bulbs-with-cloves-on-white-background-white-garlic-bulb.jpg?s=612x612&w=0&k=20&c=QmHcpqB2c5T_av195UeI8d0InVpXwLuoiHoccwaHZkE=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "50g",
+      "ratings": 4.7,
+      "numReviews": 84
+    },
+    {
+      "id": "ING-70",
+      "name": "Mustard Oil",
+      "description": "Traditional cooking oil used for an authentic bharta taste.",
+      "price": 40,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-MUSTARD-BHARTA",
+      "stock": 80,
+      "imageURL": "https://media.istockphoto.com/id/500479042/photo/oil-of-mustard-in-a-small-jar.jpg?s=2048x2048&w=is&k=20&c=POUROiokDEiRuvx27AZrejK5OgWjEKE0rHVQavv7eCg=",
+      "category": "Oils",
+      "brand": "Fortune",
+      "weight": "500ml",
+      "ratings": 4.5,
+      "numReviews": 75
+    }
+  ],
+  "type": "Low Sugar"
+},
+"recipe15": {
+  "id": 16,
+  "name": "Mushroom and Spinach Stir Fry",
+  "description": "Quick sautéed mushrooms and spinach in light spices. Low in sugar and rich in fiber, iron, and antioxidants.",
+  "ingredients": [
+    {
+      "id": "ING-71",
+      "name": "Button Mushrooms",
+      "description": "Low-carb, low-calorie fungi rich in umami flavor and B vitamins.",
+      "price": 60,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-MUSHROOM",
+      "stock": 50,
+      "imageURL": "https://media.istockphoto.com/id/478793155/photo/fresh-whole-white-button-mushrooms.jpg?s=612x612&w=0&k=20&c=3f5wrM83OFMaYeBBJ3zLxT1fBIynaRkO6K6SAu1Rs2s=",
+      "category": "Vegetables",
+      "brand": "Local Farms",
+      "weight": "200g",
+      "ratings": 4.6,
+      "numReviews": 102
+    },
+    {
+      "id": "ING-72",
+      "name": "Spinach (Palak)",
+      "description": "Rich in iron and fiber, balances texture and nutrition.",
+      "price": 20,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-SPINACH-STIRFRY",
+      "stock": 70,
+      "imageURL": "https://media.istockphoto.com/id/1159979911/photo/spinach-bunch-and-cutting-board-on-dark-grey-blackboard.jpg?s=2048x2048&w=is&k=20&c=0UAv6KFrnecyoRnRHEhYO3fY1fDwQw8_nBIOx4vqwdw=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "250g",
+      "ratings": 4.7,
+      "numReviews": 108
+    },
+    {
+      "id": "ING-73",
+      "name": "Garlic",
+      "description": "Adds punchy flavor and improves digestion.",
+      "price": 45,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-GARLIC-STIRFRY",
+      "stock": 90,
+      "imageURL": "https://media.istockphoto.com/id/2058002828/photo/garlic-bulb-and-clove-isolated-garlic-bulbs-with-cloves-on-white-background-white-garlic-bulb.jpg?s=612x612&w=0&k=20&c=QmHcpqB2c5T_av195UeI8d0InVpXwLuoiHoccwaHZkE=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "50g",
+      "ratings": 4.6,
+      "numReviews": 85
+    },
+    {
+      "id": "ING-74",
+      "name": "Olive Oil",
+      "description": "Light and heart-healthy oil ideal for stir frying low sugar meals.",
+      "price": 180,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-OLIVEOIL-SPINACH",
+      "stock": 40,
+      "imageURL": "https://media.istockphoto.com/id/643941220/photo/olive-oil-and-green-olives.jpg?s=612x612&w=0&k=20&c=x0hgSPiCEkSXyX_GfQJWBAnSS3n-Chb97h0QONfIbI4=",
+      "category": "Oils",
+      "brand": "Figaro",
+      "weight": "500ml",
+      "ratings": 4.8,
+      "numReviews": 95
+    },
+    {
+      "id": "ING-75",
+      "name": "Black Pepper",
+      "description": "Adds spice and antioxidant benefits without sugar.",
+      "price": 35,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-BLACKPEPPER-STIRFRY",
+      "stock": 100,
+      "imageURL": "https://media.istockphoto.com/id/500955410/photo/black-pepper.jpg?s=612x612&w=0&k=20&c=kpvNaCSi5AnsvVN8EtqqtmJITCHj6f72uG5j2Yl78Ic=",
+      "category": "Spices",
+      "brand": "Catch",
+      "weight": "50g",
+      "ratings": 4.7,
+      "numReviews": 91
+    }
+  ],
+  "type": "Low Sugar"
+},
+"recipe16": {
+  "id": 17,
+  "name": "Coconut Flour Roti",
+  "description": "Gluten-free, low-carb roti made using coconut flour. A diabetic-friendly alternative to wheat rotis, rich in fiber and healthy fats.",
+  "ingredients": [
+    {
+      "id": "ING-76",
+      "name": "Coconut Flour",
+      "description": "Low-carb flour made from dried coconut pulp; rich in fiber and suitable for keto and low-sugar diets.",
+      "price": 120,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-COCONUT-FLOUR",
+      "stock": 50,
+      "imageURL": "https://media.istockphoto.com/id/1307917023/photo/grated-coconut-powder-falling-out-of-a-coconut-shell-with-copy-space.jpg?s=612x612&w=0&k=20&c=1P2WOKfWwlB_DliRdODx5ILE16TFN1Ww0iiZlQo-_wk=",
+      "category": "Grains",
+      "brand": "Nutriwish",
+      "weight": "500g",
+      "ratings": 4.6,
+      "numReviews": 115
+    },
+    {
+      "id": "ING-77",
+      "name": "Psyllium Husk (Isabgol)",
+      "description": "Natural fiber used to bind coconut flour dough; aids digestion and blood sugar control.",
+      "price": 85,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-PSYLLIUM",
+      "stock": 40,
+      "imageURL": "https://media.istockphoto.com/id/1487224646/photo/fiber-psyllium-for-a-healthy-diet-superfood.jpg?s=612x612&w=0&k=20&c=Dyq4RqBIOSB9CUZ_AER0agllVJNr4jGzrFj0W3o4z9s=",
+      "category": "Supplements",
+      "brand": "Organic India",
+      "weight": "100g",
+      "ratings": 4.7,
+      "numReviews": 78
+    },
+    {
+      "id": "ING-78",
+      "name": "Warm Water",
+      "description": "Used to form the dough; keeps the roti soft and pliable.",
+      "price": 30,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-WATER",
+      "stock": 9999,
+      "imageURL": "https://media.istockphoto.com/id/1170640235/photo/warm-water-honey-lemon-drink.jpg?s=612x612&w=0&k=20&c=Ef64Ty7ujN4D5ACS-XSrQdTQyFX9_xUP3Yz02OE90xw=",
+      "category": "Other",
+      "brand": "Filtered",
+      "weight": "100ml",
+      "ratings": 4.9,
+      "numReviews": 200
+    },
+    {
+      "id": "ING-79",
+      "name": "Salt",
+      "description": "Enhances taste and balances natural sweetness from coconut flour.",
+      "price": 15,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-SALT-COCONUTROTI",
+      "stock": 150,
+      "imageURL": "https://media.istockphoto.com/id/1348072128/photo/flower-of-salt-from-guerande-france-traditional-french-natural-sea-salt-of-high-quality-hand.jpg?s=612x612&w=0&k=20&c=OvM1yQKieg_eUxYMKfrm4NN8f4i0GNxIcJ1kx-4QKek=",
+      "category": "Spices",
+      "brand": "Tata",
+      "weight": "1kg",
+      "ratings": 4.8,
+      "numReviews": 150
+    }
+  ],
+  "type": "Low Sugar"
+},
+"recipe17": {
+  "id": 18,
+  "name": "Palak Soup (Spinach Soup)",
+  "description": "A warm and comforting green soup made with spinach, garlic, and spices. Low in sugar and calories, high in iron and antioxidants.",
+  "ingredients": [
+    {
+      "id": "ING-80",
+      "name": "Spinach (Palak)",
+      "description": "Leafy green loaded with iron, calcium, and antioxidants. Perfect for diabetes-friendly diets.",
+      "price": 20,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-SPINACH-SOUP",
+      "stock": 80,
+      "imageURL": "https://media.istockphoto.com/id/1159979911/photo/spinach-bunch-and-cutting-board-on-dark-grey-blackboard.jpg?s=2048x2048&w=is&k=20&c=0UAv6KFrnecyoRnRHEhYO3fY1fDwQw8_nBIOx4vqwdw=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "250g",
+      "ratings": 4.7,
+      "numReviews": 103
+    },
+    {
+      "id": "ING-81",
+      "name": "Garlic",
+      "description": "Boosts immunity, improves flavor, and has blood-sugar-regulating benefits.",
+      "price": 35,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-GARLIC-SOUP",
+      "stock": 90,
+      "imageURL": "https://media.istockphoto.com/id/2058002828/photo/garlic-bulb-and-clove-isolated-garlic-bulbs-with-cloves-on-white-background-white-garlic-bulb.jpg?s=612x612&w=0&k=20&c=QmHcpqB2c5T_av195UeI8d0InVpXwLuoiHoccwaHZkE=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "50g",
+      "ratings": 4.6,
+      "numReviews": 92
+    },
+    {
+      "id": "ING-82",
+      "name": "Black Pepper",
+      "description": "Adds mild spice and improves absorption of nutrients.",
+      "price": 15,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-BLACKPEPPER-SOUP",
+      "stock": 100,
+      "imageURL": "https://media.istockphoto.com/id/500955410/photo/black-pepper.jpg?s=612x612&w=0&k=20&c=kpvNaCSi5AnsvVN8EtqqtmJITCHj6f72uG5j2Yl78Ic=",
+      "category": "Spices",
+      "brand": "Catch",
+      "weight": "50g",
+      "ratings": 4.7,
+      "numReviews": 88
+    },
+    {
+      "id": "ING-83",
+      "name": "Vegetable Stock",
+      "description": "Used as a flavorful base instead of cream or milk; keeps soup light and diabetic-safe.",
+      "price": 40,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-VEG-STOCK",
+      "stock": 60,
+      "imageURL": "https://media.istockphoto.com/id/589415708/photo/fresh-fruits-and-vegetables.jpg?s=612x612&w=0&k=20&c=aBFGUU-98pnoht73co8r2TZIKF3MDtBBu9KSxtxK_C0=",
+      "category": "Condiments",
+      "brand": "Urban Platter",
+      "weight": "500ml",
+      "ratings": 4.5,
+      "numReviews": 74
+    }
+  ],
+  "type": "Low Sugar"
+},
+"recipe18": {
+  "id": 19,
+  "name": "Tofu Bhurji (Scrambled Tofu Curry)",
+  "description": "A plant-based version of egg bhurji made with crumbled tofu, spices, and veggies. High in protein, low in sugar, and perfect for diabetic diets.",
+  "ingredients": [
+    {
+      "id": "ING-84",
+      "name": "Tofu",
+      "description": "High-protein, low-carb soybean paneer; ideal meat substitute for healthy scrambles.",
+      "price": 65,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-TOFU-BHURJI",
+      "stock": 60,
+      "imageURL": "https://media.istockphoto.com/id/646899374/photo/fresh-vegetables-on-white-background.jpg?s=612x612&w=0&k=20&c=3fFPrsnEfK_-gv-_JtKpd-M_uz_RSzGG0NG2aNELzn8=",
+      "category": "Dairy Alternatives",
+      "brand": "NutraHi",
+      "weight": "200g",
+      "ratings": 4.6,
+      "numReviews": 98
+    },
+    {
+      "id": "ING-85",
+      "name": "Onion",
+      "description": "Finely chopped for base flavor and light sweetness.",
+      "price": 40,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-ONION-TOFU",
+      "stock": 120,
+      "imageURL": "https://media.istockphoto.com/id/690404352/photo/spanish-onions-on-black-slate-background.jpg?s=1024x1024&w=is&k=20&c=m05RvoCCJCK3Ox-jBTB_jShVK8WtxI9-ngbswA_ztk0=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "1 pc",
+      "ratings": 4.5,
+      "numReviews": 90
+    },
+    {
+      "id": "ING-86",
+      "name": "Tomato",
+      "description": "Adds tang and moisture to scrambled tofu.",
+      "price": 80,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-TOMATO-TOFU",
+      "stock": 100,
+      "imageURL": "https://images.unsplash.com/photo-1582284540020-8acbe03f4924?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "1 pc",
+      "ratings": 4.6,
+      "numReviews": 88
+    },
+    {
+      "id": "ING-87",
+      "name": "Turmeric Powder",
+      "description": "Gives golden color and anti-inflammatory benefits.",
+      "price": 10,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-TURMERIC-TOFU",
+      "stock": 80,
+      "imageURL": "https://media.istockphoto.com/id/671653020/photo/turmeric-in-bowl.jpg?s=2048x2048&w=is&k=20&c=ozsCXeUBB683EL9c3bOpXkOJyPiSqovUIAIWRKtM5os=",
+      "category": "Spices",
+      "brand": "Everest",
+      "weight": "50g",
+      "ratings": 4.7,
+      "numReviews": 95
+    },
+    {
+      "id": "ING-88",
+      "name": "Coriander Leaves",
+      "description": "Fresh garnish for flavor and presentation.",
+      "price": 50,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-CORIANDER-TOFU",
+      "stock": 150,
+      "imageURL": "https://images.unsplash.com/photo-1535189487909-a262ad10c165?q=80&w=1099&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "50g",
+      "ratings": 4.8,
+      "numReviews": 80
+    }
+  ],
+  "type": "Low Sugar"
+},
+"recipe19": {
+  "id": 20,
+  "name": "Stuffed Capsicum with Paneer & Veggies",
+  "description": "Bell peppers filled with a savory mix of paneer and vegetables, then baked or shallow-fried. Low in carbs and sugar, high in protein.",
+  "ingredients": [
+    {
+      "id": "ING-89",
+      "name": "Capsicum (Bell Pepper)",
+      "description": "Hollowed and used as a vessel for healthy fillings; low-calorie and colorful.",
+      "price": 25,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-CAPSICUM",
+      "stock": 90,
+      "imageURL": "https://media.istockphoto.com/id/897503508/photo/colorful-paprika-background.jpg?s=2048x2048&w=is&k=20&c=TxZm3Hg_4IYG3YuWmNta3fqFidsMj2LLFfO11qv9QJg=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "2 pcs",
+      "ratings": 4.6,
+      "numReviews": 102
+    },
+    {
+      "id": "ING-90",
+      "name": "Paneer (Low Fat)",
+      "description": "Grated fresh Indian cottage cheese; low-carb and protein-rich filling base.",
+      "price": 70,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-PANEER-STUFFED",
+      "stock": 50,
+      "imageURL": "https://media.istockphoto.com/id/1183707972/photo/paneer-cottage-cheese-close-up.jpg?s=612x612&w=0&k=20&c=PX2_y5j0KJUURf2qZuWMrxmZ5wtbci076zEg_1w8KiI=",
+      "category": "Dairy",
+      "brand": "Amul",
+      "weight": "200g",
+      "ratings": 4.7,
+      "numReviews": 110
+    },
+    {
+      "id": "ING-91",
+      "name": "Carrot",
+      "description": "Finely chopped carrot adds crunch and mild sweetness.",
+      "price": 35,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-CARROT-STUFFED",
+      "stock": 80,
+      "imageURL": "https://media.istockphoto.com/id/2150710300/photo/overhead-view-of-freshly-sliced-organic-carrots-on-cutting-board.jpg?s=2048x2048&w=is&k=20&c=4_fz9E53ep4COx7ATjtUvyzRxKL1sLOAI8CxVXusYOM=",
+      "category": "Vegetables",
+      "brand": "Local",
+      "weight": "1 pc",
+      "ratings": 4.5,
+      "numReviews": 87
+    },
+    {
+      "id": "ING-92",
+      "name": "Garam Masala",
+      "description": "Classic Indian spice mix to enhance flavor depth.",
+      "price": 30,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-GARAM-STUFFED",
+      "stock": 90,
+      "imageURL": "https://media.istockphoto.com/id/1138669979/photo/exotic-indian-and-asian-gourmet-food-ingredients.jpg?s=612x612&w=0&k=20&c=Z-CyTqCVP7LXB_xxLqI8fBWw-Y2kAHtC2XTdWC8SrNU=",
+      "category": "Spices",
+      "brand": "Everest",
+      "weight": "50g",
+      "ratings": 4.7,
+      "numReviews": 120
+    },
+    {
+      "id": "ING-93",
+      "name": "Olive Oil",
+      "description": "Used lightly for roasting or sautéing the capsicum; heart-healthy option.",
+      "price": 180,
+      "currency": "INR",
+      "qrCodeId": "SP-ING-OLIVEOIL-CAPSICUM",
+      "stock": 40,
+      "imageURL": "https://media.istockphoto.com/id/643941220/photo/olive-oil-and-green-olives.jpg?s=612x612&w=0&k=20&c=x0hgSPiCEkSXyX_GfQJWBAnSS3n-Chb97h0QONfIbI4=",
+      "category": "Oils",
+      "brand": "Figaro",
+      "weight": "500ml",
+      "ratings": 4.8,
+      "numReviews": 95
+    }
+  ],
+  "type": "Low Sugar"
+}
+
+   }
+ }
