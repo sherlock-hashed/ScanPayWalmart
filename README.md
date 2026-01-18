@@ -78,8 +78,8 @@ Clone the repository
 
 Bash
 
-git clone [https://github.com/your-username/scanpay.git](https://github.com/your-username/scanpay.git)
-cd scanpay
+git clone [https://github.com/sherlock-hashed/ScanPayWalmart.git](https://github.com/sherlock-hashed/ScanPayWalmart.git)
+cd ScanPayWalmart
 Install dependencies
 
 Bash
